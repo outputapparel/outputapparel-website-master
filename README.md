@@ -1,1 +1,1 @@
-# outputapparel-website
+This is the official website for Output Apparel
