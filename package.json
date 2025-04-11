@@ -11,8 +11,5 @@
     "url": "https://github.com/outputapparel/outputapparel-website-master.git"
   },
   "author": "Thore Gersen",
-  "license": "UNLICENSED",
-  "dependencies": {
-    "firebase": "^9.8.1"
-  }
+  "license": "UNLICENSED"
 }
